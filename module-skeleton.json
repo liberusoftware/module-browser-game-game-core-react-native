@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-game-core-react-native",
+  "capabilityKey": "liberusoftware/module-browser-game-game-core",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-browser-game-game-core-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/browser-game/nextjs/game-core.md",
+  "presentationPlan": "projects/browser-game/react-native/game-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
